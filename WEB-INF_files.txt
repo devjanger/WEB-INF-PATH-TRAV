@@ -4,3 +4,5 @@
 /WEB-INF/classes/applicationContext.xml
 /WEB-INF/classes/jdbc.xml
 /WEB-INF/classes/application.config.xml
+/WEB-INF/tlds/platform.tld
+/WEB-INF/jspf/webConstraint.jspf
